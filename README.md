@@ -134,10 +134,10 @@ The following business problems were solved using SQL:
 Zepto-Data-Analysis/
 │
 ├── Dataset/
-│   └── zepto.csv
+│   └── zepto_v2.csv
 │
 ├── SQL Queries/
-│   └── zepto_analysis.sql
+│   └── zepto_postgresql_code.sql
 │
 ├── Results/
 │   └── Query Outputs
@@ -145,20 +145,7 @@ Zepto-Data-Analysis/
 └── README.md
 ```
 
----
 
-# 📸 Sample Outputs
-
-Add screenshots of your SQL query outputs in the **Results** folder and display a few of them here.
-
-Examples:
-
-- Top Discounted Products
-- Revenue by Category
-- Highest Discount Categories
-- Out-of-Stock Products
-
----
 
 # 📚 Skills Demonstrated
 
@@ -192,7 +179,7 @@ Throughout this project, I applied:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Zepto-Data-Analysis.git
+git clone https://github.com/mridulajha24/Zepto_data_analysis_project.git
 ```
 
 2. Open PostgreSQL or pgAdmin.
@@ -218,5 +205,3 @@ Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization
 I enjoy solving real-world business problems using data and continuously improving my analytical and problem-solving skills through hands-on projects.
 
 ---
-
-⭐ If you found this project helpful, consider giving it a star! Feedback and suggestions are always welcome.
